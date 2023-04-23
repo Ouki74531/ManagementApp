@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1115" />
+        <entry key="app/src/main/res/drawable/et_message.xml" value="0.23" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/reciever.xml" value="0.16" />
+        <entry key="app/src/main/res/drawable/sender.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/activity_chat_add.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_group_chat.xml" value="0.3619221411192214" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_private_chat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_task_add.xml" value="0.1721908569335937" />
+        <entry key="app/src/main/res/layout/activity_task_edit.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_call.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.40126800537109375" />
+        <entry key="app/src/main/res/layout/fragment_graph.xml" value="0.254981884057971" />
+        <entry key="app/src/main/res/layout/fragment_graph_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/reciever.xml" value="0.36699862272843076" />
+        <entry key="app/src/main/res/layout/sample_show_task.xml" value="0.1425925925925926" />
+        <entry key="app/src/main/res/layout/sample_show_user.xml" value="0.14859437751004015" />
+        <entry key="app/src/main/res/layout/sender.xml" value="0.3109375" />
+        <entry key="app/src/main/res/menu/option_menu.xml" value="0.22777777777777777" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

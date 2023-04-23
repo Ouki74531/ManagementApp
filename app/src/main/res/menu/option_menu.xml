@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/groupChat"
+        android:title="グループチャット"/>
+
+    <item
+        android:id="@+id/taskAdd"
+        android:title="タスク追加"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="ログアウト"/>
+</menu>
